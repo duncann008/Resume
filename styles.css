@@ -1,0 +1,65 @@
+.border {
+ border-style: outset;
+ border-color: black;
+}
+    .secondheader {
+  font-size: 25px;
+    }
+    .work {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    background: #85B49F ;
+    }
+    .job {font-size: 20px;
+    text-align: center;}
+    
+    .education {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    }
+    .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1 {
+
+  background-image: url("https://p2.piqsels.com/preview/675/65/154/clean-clean-background-blur-green.jpg");
+  background-size: 900px 200px;
+  font-size: 69px;
+  color: black;
+  font-family: Noto Sans, sans-serif;
+  font-weight: 200;
+  width: 100;
+  text-align: center;
+  border: red;
+  border-width: 5px;
+  padding-top: 20px;
+}
+
+body {
+  font-size: 20px;
+  
+  
+}
+
+
+footer {
+  font-size: 15px;
+  width: 100;
+  text-align: center;
+  font-family: Noto Sans, sans-serif;
+  padding-bottom: 15px
+  font-weight: bold;
+  
+}
+
+table, th, td {
+  border: 1px solid black;
+  text-align: center;
+  
+}
